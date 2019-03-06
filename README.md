@@ -14,7 +14,7 @@ The script is just a guide, feel free to make your own adjustments.
 
 ### Import the datasets into your CARTO account
 
-The first step is to import the required datasets into your CARTO account. Please, let us know if you were not given a trial CARTO account as part of the hiring process.
+The first step is to import the required datasets into your CARTO account. Please, create trial account https://carto.com/signup as part of the hiring process. 
 
 There are 5 datasets you need to import:
 
